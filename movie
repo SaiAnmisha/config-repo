@@ -1,0 +1,7 @@
+# config-repo
+spring.data.mongodb.database=movie
+spring.data.mongodb.host=localhost
+spring.data.mongodb.password= 
+spring.data.mongodb.port=27017
+spring.data.mongodb.uri=mongodb://localhost/movie
+spring.data.mongodb.username= 
